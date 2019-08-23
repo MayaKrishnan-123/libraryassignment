@@ -1,0 +1,41 @@
+body
+{
+background-color: black;
+color: lavender;
+}
+
+body a{
+color: white;
+}
+.table
+{
+width: 100%;
+background: black;
+color: black;
+border: 2px;
+}
+.table td
+{
+height:50px;
+}
+.table .tr .th{
+height:150px;
+}
+table, th, td {
+  border: 3px dashed black;
+ background: whitesmoke;
+color: black;
+}
+.back
+{
+float:right;
+}
+.back .backbutton
+{
+background-color: white;
+color: black;
+border: none;
+padding: 15px 15px;
+text-align: center;
+font-size: 20px;
+}
